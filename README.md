@@ -84,5 +84,5 @@ A big shoutout to the FiveM community for the continuous support and inspiration
 
 ## Contact:
 
-For more information or queries, please [open an issue](https://github.com/yourusername/repo/issues) or reach out to me on [FiveM forums](#).
+For more information or queries, please [open an issue](https://github.com/ItzCelyrian/OpenSourcedForGood/issues) or reach out to me on [FiveM forums](#).
 
